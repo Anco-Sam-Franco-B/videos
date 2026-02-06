@@ -22,5 +22,17 @@
     {
     "video_name" : "Build a Full Stack Mobile Application with React Native & Expo - React Native Tutorial",
     "video_url" : "https://youtu.be/vk13GJi4Vd0"
+  },
+  {
+    "video_name": "Creating a Real Life Jarvis 🔥😎 ( One Shot ) | How To Make Jarvis | Jarvis Python | Shreshth Kaushik",
+    "video_url": "https://youtu.be/E4fGvJ2nGkY"
+  },
+  {
+    "video_name": "EJS Template Engine in Express.js | Dynamic Content Made Easy",
+    "video_url": "https://youtu.be/KtSMkCWM0oM"
+  },
+  {
+    "video_name": "Send Emails in Node.js | NodeMailer Tutorial",
+    "video_url": "https://youtu.be/L46FwfVTRE0"
   }
 ]
